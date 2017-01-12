@@ -141,3 +141,12 @@ div.contact-info{
 	margin-bottom: 10px !important;
 	text-align: center;
 }
+
+div.parrafo{
+	line-height: 20px;
+	font-size: 16px;
+	font-family: AveriaLibre-Regular;
+	text-transform: none;
+	font-weight: 400;
+	color:  #000;
+}
